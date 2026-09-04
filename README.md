@@ -22,7 +22,7 @@
 
 ## About me
 
-- Information Systems student at **IFES Campus Colatina** and member of **LEDS-IFES**.
+- Information Systems student at **IFES Campus Colatina** and member of **LEDS** and **Titãs da Robótica**.
 - Software developer with a strong interest in **backend engineering**, **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
 - Member of **Titãs da Robótica**, developing autonomous, cooperative agents for RoboCup Soccer Simulation 2D.
 - Interested in applying solid software-engineering practices to intelligent systems that work in real scenarios.
@@ -36,24 +36,18 @@
 ## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,cpp,docker,git,github" alt="C#, .NET, Java, Spring, Python, C++, Docker, Git and GitHub" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,cpp,docker,git,github" alt="C#, .NET, Java, Spring, Python, C++, Docker" />
 </p>
 
 | Focus | Technologies |
 | --- | --- |
-| Backend | C#, .NET, Java, Spring, REST APIs |
+| Backend | C#, .NET, Java, Spring, Python, REST APIs, GraphQL|
 | AI & ML | Python, C++, multi-agent systems, trajectory prediction |
-| Engineering | Docker, Git, GitHub |
-
-## GitHub statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoRicardoCetto&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=transparent" alt="João's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRicardoCetto&layout=compact&langs_count=8&theme=transparent" alt="João's most used languages" />
-</p>
+| Engineering | Docker |
 
 ---
 
 <p align="center">
   <i>Open to learning, building, and collaborating on backend and intelligent-systems projects.</i>
 </p>
+
