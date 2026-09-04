@@ -43,7 +43,7 @@
 | --- | --- |
 | Backend | C#, .NET, Java, Spring, Python, REST APIs, GraphQL|
 | AI & ML | Python, C++, multi-agent systems, trajectory prediction |
-| Engineering | Docker |
+| Engineering | Docker, Kubernetes |
 
 ---
 
