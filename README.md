@@ -36,7 +36,7 @@
 ## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,cpp,docker" alt="C#, .NET, Java, Spring, Python, C++, Docker" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,cpp,docker,kubernetes" alt="C#, .NET, Java, Spring, Python, C++, Docker, Kubernetes" />
 </p>
 
 | Focus | Technologies |
