@@ -22,7 +22,7 @@
 
 ## About me
 
-- Information Systems student at **IFES Campus Colatina** and member of **LEDS** and **Titãs da Robótica**.
+- Information Systems student at **IFES Campus Colatina** and member of **LEDS**.
 - Software developer with a strong interest in **backend engineering**, **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
 - Member of **Titãs da Robótica**, developing autonomous, cooperative agents for RoboCup Soccer Simulation 2D.
 - Interested in applying solid software-engineering practices to intelligent systems that work in real scenarios.
